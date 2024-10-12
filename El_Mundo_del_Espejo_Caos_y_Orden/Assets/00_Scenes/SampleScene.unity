@@ -409,6 +409,10 @@ PrefabInstance:
       value: Enemy1
       objectReference: {fileID: 0}
     - target: {fileID: 304784761580215512, guid: 30c3a27007c0c3f40a9bd9f11a36fcda, type: 3}
+      propertyPath: m_FlipX
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 304784761580215512, guid: 30c3a27007c0c3f40a9bd9f11a36fcda, type: 3}
       propertyPath: m_SortingOrder
       value: 1
       objectReference: {fileID: 0}
@@ -477,6 +481,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2778047780220766841, guid: 23677f3f007bbce4eb2df69774ab4986, type: 3}
+      propertyPath: m_FlipX
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6487014927399810144, guid: 23677f3f007bbce4eb2df69774ab4986, type: 3}
       propertyPath: m_Name
       value: Enemy4
@@ -558,6 +566,10 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 117916062}
+    - target: {fileID: 2334100306606082113, guid: f274cfe267c69bc469334a4edf0408ef, type: 3}
+      propertyPath: m_FlipX
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2334100306606082113, guid: f274cfe267c69bc469334a4edf0408ef, type: 3}
       propertyPath: m_SortingOrder
       value: 1
@@ -680,6 +692,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6612812705404327313, guid: 44d40db1e02400145a44fe7089b1e716, type: 3}
+      propertyPath: m_FlipX
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6612812705404327313, guid: 44d40db1e02400145a44fe7089b1e716, type: 3}
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 4345033215037823230, guid: bb60bed276865854d99b6c78a01f41a2, type: 3}
@@ -704,6 +720,10 @@ PrefabInstance:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: a57b763654454484794b2ecbfdb630f8, type: 2}
+    - target: {fileID: 2829662323491116401, guid: b03612846653857489be3b3b50b5494f, type: 3}
+      propertyPath: m_FlipX
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5538463859947106050, guid: b03612846653857489be3b3b50b5494f, type: 3}
       propertyPath: m_Name
       value: Enemy5
@@ -761,6 +781,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 955765458848567356, guid: 28bf2cc5e0b58624d9cf13145b2c2de7, type: 3}
+      propertyPath: m_FlipX
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4330383397690358183, guid: 28bf2cc5e0b58624d9cf13145b2c2de7, type: 3}
       propertyPath: m_RootOrder
       value: 3
